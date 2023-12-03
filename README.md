@@ -9,4 +9,4 @@ unable to continue due to errors.
 
 2nd try
 
-success after using a simpler metamodel after consulting with TA, more info inside respective zip file.
+success after using a simpler metamodel after consulting with TA, more info inside respective zip file named "supermarket".
